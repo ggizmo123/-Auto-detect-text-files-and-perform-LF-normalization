@@ -1,3 +1,0 @@
-	echo -e "\e[1;34mWhat payload would you like to use?\e[0m"
-+# Auto detect text files and perform LF normalization
-+* text=auto
